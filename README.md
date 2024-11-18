@@ -1,1 +1,2 @@
 # StemSongs
+StemSongs is my attempt at highly-accurate music recommendation. The user inputs a song, that song is stemmed into its main components (bass, drums, vocal, and other), and each stem is individually compared with stems of the same type from a database I've compiled. For the sake of this project, the database only consists of royalty-free songs that I could download for free. Try it out!
